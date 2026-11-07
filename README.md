@@ -12,10 +12,10 @@ I work with Python, NumPy, pandas and scikit-learn, and I enjoy turning data int
 
 ## Skills
 
-**Languages:** Python, SQL
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-**Data & ML:** Data Visualization, Machine Learning (Supervised and Unsupervised)
-**Tools:** JupyterLab, Git/GitHub
+- **Languages:** Python, SQL
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Data & ML:** Data Visualization, Machine Learning (Supervised and Unsupervised)
+- **Tools:** JupyterLab, Git/GitHub
 
 ## Certification
 
