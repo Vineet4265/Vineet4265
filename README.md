@@ -1,26 +1,25 @@
-# Hi, I'm Vineet Kumar 👋
+# Hi, I'm Vineet Kumar
 
-Aspiring Machine Learning Engineer and 2026 B.Tech graduate in Electronics and Communication Engineering (Bundelkhand Institute of Engineering and Technology, Jhansi).
+B.Tech graduate in Electronics and Communication Engineering (2026), focused on Machine Learning and NLP. I build and fine-tune models and turn them into working applications.
 
-I work with Python, NumPy, pandas and scikit-learn, and I enjoy turning data into insights through exploratory analysis, feature engineering and model evaluation. I'm looking for an AI/ML Engineer role.
+## What I'm working on
+- Fine-tuning transformer models (T5) for dialogue summarization
+- Building ML apps with FastAPI and PyTorch
+- Practising end-to-end ML projects: EDA, feature engineering, modelling, evaluation
 
 ## Projects
-
-- **[CreditWise Loan Approval Prediction](https://github.com/Vineet4265/CreditWise-Loan-System)**: supervised classification pipeline comparing Logistic Regression, KNN and Naive Bayes, with EDA, feature engineering and evaluation using accuracy, precision, recall and F1 score.
-- **[SmartCart Customer Segmentation System](https://github.com/Vineet4265/SmartCart-Segmentation-System)**: K-Means and Agglomerative Clustering with PCA on 2,240 customer records, using the Elbow Method and Silhouette Score to find and profile customer segments.
-- **[Daily Practice](https://github.com/Vineet4265/daily-practice)**: notebooks on NumPy, pandas, supervised learning and unsupervised learning.
+- **[Text Summarizer App](https://github.com/Vineet4265/Text-Summarizer-App)**: T5 fine-tuned on SAMSum, served through a FastAPI backend with a web interface
+- **[SmartCart Customer Segmentation](https://github.com/Vineet4265/SmartCart-Segmentation-System)**: K-Means and Agglomerative Clustering on 2,240 customer records
+- **[CreditWise Loan System](https://github.com/Vineet4265/CreditWise-Loan-System)**: loan prediction project
+- **[RNN Sentiment Analysis](https://github.com/Vineet4265/RNN-Sentiment-Analysis)**: sentiment classification on IMDB reviews
 
 ## Skills
+**Languages:** Python, SQL, HTML/CSS
+**ML and Data:** Scikit-learn, PyTorch, Hugging Face Transformers, NumPy, pandas, Matplotlib, Seaborn
+**Tools:** FastAPI, Git/GitHub, VS Code, JupyterLab
 
-- **Languages:** Python, SQL
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Data & ML:** Data Visualization, Machine Learning (Supervised and Unsupervised)
-- **Tools:** JupyterLab, Git/GitHub
+## Connect with me
+- LinkedIn: [Vineet Kumar](https://www.linkedin.com/in/vineet-kumar-b08a90239/)
+- Email: vineetwork89@gmail.com
 
-## Certification
-
-GenAI Powered Data Analytics Job Simulation, TATA iQ (Forage), October 2026: exploratory data analysis, delinquency prediction and an AI-driven collections strategy.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/vineet-kumar-b08a90239/)
+Open to AI/ML Engineer opportunities.
